@@ -3,5 +3,5 @@
 
 Uplaods from Questions from 30 days of Pandas from leetcode.
 
-1. 595.  Big Countries
-2. 1757. Recyclable and Low Fat Products
+1. "595.  Big Countries"
+2. "1757. Recyclable and Low Fat Products"
